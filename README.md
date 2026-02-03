@@ -1,3 +1,3 @@
 # cours-computer-science
 cherche pas tu a tort
-igor d hossgore
+Igor d hossgore
